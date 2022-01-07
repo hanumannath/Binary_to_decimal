@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    color: white;
+}
+#icon{
+    color: white;
+}
+#title{
+    text-align: center;
+    
+}
+#titl{
+    color: #0275d8;
+   margin-top: -15px;
+    font-size:xx-large;
+    font-family: 'Lobster Two', cursive;
+
+}
+#titl1{
+    margin-top: 50px;
+    font-family: 'Bangers', cursive;
+font-family: 'Lobster Two', cursive;
+}
+#inp{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+input{
+    background-color: transparent;
+    border: 0px solid;
+
+}
+input:focus{
+    outline: none;
+}
+hr{
+    margin-left:10%;
+    margin-top: 0px;
+}
+#head3{
+    color: lightslategray;
+}
+#head4{
+    margin-top: 110px;
+    text-align: center;
+}
+#but{
+    margin-top: 100px;
+    text-align: center;
+}
+#butn{
+    width: 120px;
+    border-radius: 8px;
+    font-family: 'IBM Plex Mono', monospace;
+
+}
+
+#icon:hover{
+    cursor: pointer;
+}
